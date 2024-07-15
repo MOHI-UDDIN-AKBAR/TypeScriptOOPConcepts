@@ -315,7 +315,7 @@ To run these examples, you need to have TypeScript installed. Follow these steps
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/TypeScriptOOPConcepts.git
+   git clone https://github.com/MOHI-UDDIN-AKBAR/TypeScriptOOPConcepts.git
    cd TypeScriptOOPConcepts
    ```
 
